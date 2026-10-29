@@ -1,0 +1,22 @@
+.clock-container {
+  max-width: 450px;
+  margin: 50px auto;
+  padding: 30px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background: #111827;
+  color: white;
+  border-radius: 15px;
+}
+
+.clock {
+  margin: 20px 0;
+  font-size: 42px;
+  font-weight: bold;
+  color: #34d399;
+}
+
+.clock-container p {
+  font-size: 18px;
+  color: #d1d5db;
+}
